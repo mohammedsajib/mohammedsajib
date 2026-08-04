@@ -48,8 +48,8 @@
 - ✅ Pandas
 - ✅ Matplotlib
 - ✅ Seaborn
-- 🔄 Scikit-Learn
-- ⏳ Machine Learning
+- ✅ Scikit-Learn
+- ✅ Machine Learning
 - ⏳ Deep Learning
 - ⏳ NLP
 - ⏳ Computer Vision
