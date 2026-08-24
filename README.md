@@ -1,8 +1,3 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
-  <img alt="mohammedsajib's GitHub profile" src="dark_mode.svg" />
-</picture>
-
 <h1 align="center">👋 Hi, I'm Mohammed Sajib</h1>
 <h3 align="center">🧠 Machine Learning Engineer | AI Enthusiast | Data Scientist</h3>
 
