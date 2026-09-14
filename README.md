@@ -54,7 +54,7 @@
 - ✅ Seaborn
 - ✅ Scikit-Learn
 - ✅ Machine Learning
-- ⏳ Deep Learning
+- ✅ Deep Learning
 - ⏳ NLP
 - ⏳ Computer Vision
 - ⏳ MLOps
