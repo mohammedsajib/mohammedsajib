@@ -55,7 +55,7 @@
 - ✅ Scikit-Learn
 - ✅ Machine Learning
 - ✅ Deep Learning
-- ⏳ NLP
+- ✅ NLP
 - ⏳ Computer Vision
 - ⏳ MLOps
 
